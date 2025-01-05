@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\models\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\models\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\services\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\services\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|c:\\users\\hubert\\source\\repos\\api-fall-of-the-sun\\api-fall-of-the-sun\\models\\halloffame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F81744-E595-4A6B-ADD0-3E6253CF7000}|API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun.csproj|solutionrelative:api-fall-of-the-sun\\models\\halloffame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatsController.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Controllers\\StatsController.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Controllers\\StatsController.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Controllers\\StatsController.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Controllers\\StatsController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwDwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:20:17.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HallOfFame.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Models\\HallOfFame.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Models\\HallOfFame.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Models\\HallOfFame.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Models\\HallOfFame.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:17:03.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T23:41:14.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAADwv6sAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:56:40.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Models\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Models\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Models\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Models\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:59:38.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:45:10.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\appsettings.json",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\appsettings.json",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\appsettings.json",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T20:48:23.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Models\\User.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:24:43.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Services\\EmailServices.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Services\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Services\\EmailServices.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Services\\EmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:51:33.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Services\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Services\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Services\\EmailSettings.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Services\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:50:55.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Program.cs",
+              "RelativeDocumentMoniker": "API-Fall-Of-The-Sun\\Program.cs",
+              "ToolTip": "C:\\Users\\hubert\\source\\repos\\API-Fall-Of-The-Sun\\API-Fall-Of-The-Sun\\Program.cs",
+              "RelativeToolTip": "API-Fall-Of-The-Sun\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwC8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:43:41.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
